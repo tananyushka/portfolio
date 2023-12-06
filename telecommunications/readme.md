@@ -1,6 +1,6 @@
 # Прогнозирование оттока клиентов
 
-[ipynb](ссылка_на_гитхаб)
+[ipynb](https://github.com/tananyushka/portfolio/blob/master/telecommunications/telecommunications.ipynb)
 
 ## Описание проекта
 
