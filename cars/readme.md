@@ -1,6 +1,6 @@
 # Определение стоимости автомобилей
 
-[ipynb](ссылка_на_гитхаб)
+[ipynb](https://github.com/tananyushka/portfolio/blob/master/cars/cars.ipynb)
 
 ## Описание проекта
 
